@@ -1,0 +1,3 @@
+<configs>
+	<set xpath="/Sounds/SoundDataNode[@name='44magnum_fire']/AudioClip/@ClipName">#@modfolder:Resources/44AmpedSound.unity3d?44magnum_fire</set>
+</configs>
